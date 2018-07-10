@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99c800c1-1ff9-4cf3-afe1-02343a4ea0bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedLists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLists/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,23 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LinkedLists/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="105">
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LinkedLists/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state relative-caret-position="432">
+              <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
               <folding>
-                <element signature="e#1248#1249#0" expanded="true" />
-                <element signature="e#1269#1270#0" expanded="true" />
+                <element signature="e#2109#2110#0" expanded="true" />
+                <element signature="e#2144#2145#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,10 +84,10 @@
         <option value="$PROJECT_DIR$/src/Arrays/Array.java" />
         <option value="$PROJECT_DIR$/src/ArrayList/ArrayList.java" />
         <option value="$PROJECT_DIR$/src/ArrayList/ArrayListMain.java" />
-        <option value="$PROJECT_DIR$/src/LinkedLists/Main.java" />
         <option value="$PROJECT_DIR$/src/LinkedLists/Node.java" />
         <option value="$PROJECT_DIR$/src/LinkedLists/List.java" />
         <option value="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/LinkedLists/Main.java" />
       </list>
     </option>
   </component>
@@ -159,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListMain">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Array" />
       <module name="JavaDataStructures" />
@@ -180,6 +175,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedLists.Main" />
+      <module name="JavaDataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.muaathalaraj.Main" />
       <module name="JavaDataStructures" />
@@ -191,9 +196,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Array" />
       <item itemvalue="Application.ArrayListMain" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.ArrayListMain" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.Main" />
@@ -212,12 +219,12 @@
       <updated>1530867650891</updated>
       <workItem from="1530867653581" duration="2815000" />
       <workItem from="1531145002887" duration="1565000" />
-      <workItem from="1531185464189" duration="2120000" />
+      <workItem from="1531185464189" duration="2414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6500000" />
+    <option name="totallyTimeSpent" value="6794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="930" y="22" width="510" height="816" extended-state="0" />
@@ -272,8 +279,8 @@
         <state relative-caret-position="30">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding>
-            <element signature="e#1248#1249#0" expanded="true" />
-            <element signature="e#1269#1270#0" expanded="true" />
+            <element signature="e#2109#2110#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -346,13 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedLists/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedLists/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -381,12 +381,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedLists/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="432">
+          <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
           <folding>
-            <element signature="e#1248#1249#0" expanded="true" />
-            <element signature="e#1269#1270#0" expanded="true" />
+            <element signature="e#2109#2110#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedLists/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>

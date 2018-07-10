@@ -5,10 +5,17 @@ public class Main {
 
       //Random access is not available in LinkedLists
 
+      //when using T Generic data type cannot be primitive data type
+      List<Integer> list = new LinkedList<Integer>();
 
       //inserting at the beginning of a linkedlist is O(1)
       //Just set new node pointer to LinkedList
       //Remember Arrays beginning insertions are O(N)
+
+      list.insert(10);
+      list.insert(-2);
+
+      list.traverseList();
 
       //Inserting at the end of a linkedlist is O(N)
       //traverse until the end pointing to null

@@ -78,6 +78,7 @@ public class LinkedList<T extends Comparable<T>> implements List<T> {
       Node<T> currNode = this.root;
 
       while(currNode != null){
+         //we can do this since toString was overwritten
          System.out.print(currNode + " ");
          currNode = currNode.getNextNode();
       }
